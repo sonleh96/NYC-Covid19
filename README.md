@@ -31,6 +31,6 @@ The combined dataset consists of the following for 177 Zip Codes that constitute
 [4] https://www.theatlantic.com/ideas/archive/2020/03/coronavirus-will-supercharge-american-inequality/608419/
 
 <p align="center">
-  <img src="https://github.com/sonleh96/Covid19-NYC/blob/master/Charts%20and%20Graphs/DEGREES_map.html">
+  <img src="https://github.com/sonleh96/Covid19-NYC/blob/master/Charts%20and%20Graphs/main_dataframe.JPG">
 </p>
 
